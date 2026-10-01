@@ -4,6 +4,16 @@ Senior Microsoft Dynamics 365 Finance & Operations (D365 F&O) Functional Consult
 
 I use this GitHub profile to share practical D365 F&O resources, implementation notes, documentation templates, and reusable project assets for functional consultants, ERP teams, and businesses working with Microsoft Dynamics 365.
 
+## Featured: D365 F&O Documentation Templates
+
+Organize your next implementation with practical reference material for **FRD, SIT/UAT, DMF migration, and go-live readiness**.
+
+- Copy editable requirements, integration-test, and readiness templates.
+- Explore 20 UAT scenario starters and worked process examples.
+- Review warehouse troubleshooting and migration reconciliation guides.
+
+**[Explore the templates repository](https://github.com/jazib-d365/d365-fo-documentation-templates)** · **[Full Gumroad bundle information](https://github.com/jazib-d365/d365-fo-documentation-templates#full-template-bundle-on-gumroad)**
+
 ## D365 F&O expertise
 
 - Supply Chain Management (SCM)
