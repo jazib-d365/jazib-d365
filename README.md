@@ -1,6 +1,6 @@
-# Jazib Mehmood — Microsoft Dynamics 365 F&O Functional Consultant
+# Jazib Mehmood — Senior Microsoft Dynamics 365 F&O Functional Consultant
 
-Microsoft Dynamics 365 Finance & Operations (D365 F&O) Functional Consultant focused on **Supply Chain Management, Warehouse Management, Retail & Commerce, data migration, integrations, testing, and ERP process design**.
+Senior Microsoft Dynamics 365 Finance & Operations (D365 F&O) Functional Consultant focused on **Supply Chain Management, Warehouse Management, Retail & Commerce, data migration, integrations, testing, and ERP process design**.
 
 I use this GitHub profile to share practical D365 F&O resources, implementation notes, documentation templates, and reusable project assets for functional consultants, ERP teams, and businesses working with Microsoft Dynamics 365.
 
@@ -20,16 +20,19 @@ I use this GitHub profile to share practical D365 F&O resources, implementation 
 
 ## Featured D365 resources
 
-### D365 F&O Documentation Templates
-Free reference templates for common implementation activities, including:
+Practical guides, worked examples, and editable documentation for implementation teams.
 
-- Functional Requirement Document (FRD)
-- SIT / UAT test cases
-- DMF field-mapping templates
-- Go-live checklist
-- Functional project documentation
+| Resource | Start with |
+|---|---|
+| [SCM process guide](https://github.com/jazib-d365/d365-fo-documentation-templates/tree/main/packs/d365-fo-scm-guide) | Purchase orders, partial sales deliveries, and stock transfers |
+| [Warehouse management guide](https://github.com/jazib-d365/d365-fo-documentation-templates/tree/main/packs/d365-wms-functional-guide) | Work creation troubleshooting and incident evidence |
+| [UAT test cases](https://github.com/jazib-d365/d365-fo-documentation-templates/tree/main/packs/d365-fo-uat-test-cases) | 20 scenarios, two detailed scripts, and business sign-off |
+| [DMF data migration](https://github.com/jazib-d365/d365-fo-documentation-templates/tree/main/packs/d365-dmf-data-migration) | Mapping, dependency planning, and reconciliation |
+| [Consultant interview practice](https://github.com/jazib-d365/d365-fo-documentation-templates/tree/main/packs/d365-fo-interview-questions) | 15 scenario questions and a practice scorecard |
 
-👉 Repository: [D365 F&O Documentation Templates](https://github.com/jazib-d365/d365-fo-documentation-templates)
+[Browse the complete resource hub and templates](https://github.com/jazib-d365/d365-fo-documentation-templates).
+
+Examples use fictional data. Adapt them to your application version and business configuration; the test scenarios are published designs, not executed test results.
 
 ## Certification
 
